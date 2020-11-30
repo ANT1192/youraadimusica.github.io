@@ -1,0 +1,119 @@
+
+
+nav{
+    background: #ffe6cc;
+    width: 100%;
+}
+.nav{
+	position:absolute
+  margin-left:1281px;
+  top:12px;
+}
+div{
+	margin-left:0px;
+}
+.icon1{
+	position:absolute;
+  top: 155px;
+  margin-left:1280px;
+color:green;
+}
+.icon2{
+	position: absolute;
+  top: 255px;
+  margin-left:1280px;
+color:green;
+}
+.icon3{
+	position: absolute;
+  top: 355px;
+  margin-left:1280px;
+color:green;
+}
+.img {
+	
+
+}
+.btn-group button {
+   /* Green background */
+  border: 1px #03befc; /* Green border */
+  color: black; /* White text */
+  padding: 0.2px 88px; /* Some padding */
+  cursor: pointer; /* Pointer/hand icon */
+  width: 100%; /* Set a width if needed */
+  display: block; /* Make the buttons appear below each other */
+  
+  background-color:#ff8000;
+  box-shadow: 0 0 10px #331a00;
+}
+
+.btn-group button:not(:last-child) {
+  border-bottom: none; /* Prevent double borders */
+}
+
+/* Add a background color on hover */
+.btn-group button:hover {
+  background-color: #e64d00;
+}
+.btn-group2 button {
+   /* Green background */
+  border: 1px #03befc; /* Green border */
+  color: black ; /* White text */
+  padding: 20px 24px; /* Some padding */
+  cursor: pointer; /* Pointer/hand icon */
+  width: 13%; /* Set a width if needed */
+  display: block; /* Make the buttons appear below each other */
+  
+  background-color:#ff8000;
+  box-shadow: 0 0 10px #331a00;
+  
+}
+
+.btn-group2 button:not(:last-child) {
+  border-bottom: none; /* Prevent double borders */
+}
+
+/* Add a background color on hover */
+.btn-group2 button:hover {
+  background-color: #e64d00;
+}
+.bodycolor{
+	background:radial-gradient(#ffe6cc,#ffe6cc);
+}
+
+
+
+
+div.transbox {
+  border-radius: 20px;
+  position: absolute;
+    left: 50%;
+    top: 60%;
+    transform: translate(-50%,-50%);
+    padding: 20px 25px;
+    width: 850px;
+  background-color:rgba(0,0,0,.7);
+  box-shadow: 0 0 10px rgba(255,255,255,.3);
+  
+}
+
+div.transbox p {
+  margin: 3%;
+  font-weight: bold;
+  color: #fafafa;
+}
+div.transbox h1{
+	text-align:center;
+    color: #fafafa;
+    margin-bottom: 25px;
+    text-transform: uppercase;
+    border-bottom: 4px solid #2979ff;
+   
+}
+div.transbox img {
+    position: relative;
+	margin-left:300px;
+	top: 20px;
+}
+
+
